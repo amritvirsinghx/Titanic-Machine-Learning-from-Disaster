@@ -1,2 +1,3 @@
-# Titanic-Machine-Learning-from-Disaster
-https://im-media.voltron.voanews.com/Drupal/01live-166/styles/892x501/s3/2019-04/ECD0C2AF-BA7E-42C8-8098-901A7AF88D11.png?itok=r_EOMbp1
+# Titanic Machine Learning from Disaster
+
+This notebook is detailed walkthrough of all the steps I took to make my first Kaggle submission. The Challenges I faced in the process are not unique to you or someone who is just starting with Kaggle. Keeping in mind I have provided a detailed description of steps along with references and links. Taking reference from various internet blogs and videos, I finally put my code to work, I hope you find it useful and a kickstart for your ML journey. As you explore through more and more projects and get your hands dirty, you will gain more knowlege. The tough part is to get started, and believe me to just take a leap of faith. and its okay if you dont understand the code completely, with repetions the things form a clear picture of concepts.So lets dive in!
